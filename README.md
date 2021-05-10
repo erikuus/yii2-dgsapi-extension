@@ -47,7 +47,7 @@ Lisa faili **vendor/yiisoft/extensions.php** järgmised read:
     'name' => 'rahvusarhiiv/dgsapi',
     'version' => 'dev-main',
     'alias' => [
-        '@rahvusarhiiv/vauid' => $vendorDir . '/rahvusarhiiv/dgsapi',
+        '@rahvusarhiiv/dgsapi' => $vendorDir . '/rahvusarhiiv/dgsapi',
     ],
 ],
 ```
