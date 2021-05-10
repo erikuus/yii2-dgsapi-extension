@@ -1,7 +1,7 @@
 <?php
 
 /**
- * XDgsApi component enables to call DGS API
+ * DgsApi component enables to call DGS API
  *
  * @link https://www.ra.ee/dgs-api/doc/index
  * @author Erik Uus <erik.uus@gmail.com>
