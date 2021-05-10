@@ -13,7 +13,7 @@ namespace rahvusarhiiv\dgsapi;
 use yii\base\Component;
 use yii\base\Exception;
 
-class VauSecurityManager extends Component
+class DgsApi extends Component
 {
     /**
      * @var string the url where API calls are sent to
