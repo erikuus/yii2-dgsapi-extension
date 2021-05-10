@@ -1,0 +1,24 @@
+{
+    "name": "rahvusarhiiv/dgsapi",
+    "description": "Yii 2 raamistiku laiendus DGS API kasutamiseks",
+    "type": "yii2-extension",
+    "keywords": ["yii", "dgs", "api"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/erikuus/yii2-dgsapi-extension/issues",
+        "source": "https://github.com/erikuus/yii2-dgsapi-extension"
+    },
+    "authors": [
+        {
+            "name": "Erik Uus",
+            "email": "erik.uus@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": { "rahvusarhiiv\\dgsapi\\": "" }
+    }
+}
