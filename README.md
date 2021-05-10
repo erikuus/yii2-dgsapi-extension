@@ -43,7 +43,7 @@ Laadi kõik laienduse failid Githubist alla ja paigalda rakenduse **vendor/rahvu
 Lisa faili **vendor/yiisoft/extensions.php** järgmised read:
 
 ```php
-'rahvusarhiiv/vauid' => [
+'rahvusarhiiv/dgsapi' => [
     'name' => 'rahvusarhiiv/dgsapi',
     'version' => 'dev-main',
     'alias' => [
